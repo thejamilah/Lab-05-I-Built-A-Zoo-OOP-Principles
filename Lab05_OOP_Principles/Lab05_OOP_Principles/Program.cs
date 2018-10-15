@@ -6,7 +6,7 @@ namespace Lab05_OOP_Principles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Building a Zoo");
         }
     }
 }
