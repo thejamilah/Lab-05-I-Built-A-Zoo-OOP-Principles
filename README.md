@@ -24,3 +24,4 @@ Data associated with a class/instance
 
 
 ### Visual
+![kingdomanimalia](https://user-images.githubusercontent.com/39015829/47074729-da7e6a80-d1af-11e8-81a7-f7b43cec1837.jpg)
