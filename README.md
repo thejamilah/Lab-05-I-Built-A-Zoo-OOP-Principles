@@ -8,5 +8,19 @@ This is an educational assignment that focuses on OOP (Object Oriented Programmi
 - Polymorphism
 - Abstraction
 You can read more about OOP using the link below </br>
-https://stackify.com/oop-concepts-c-sharp/
+https://stackify.com/oop-concepts-c-sharp/ </br>
 
+### What to Know Regading Properties and Methods
+_Abstract_ </br>
+Must override </br>
+_Virtual_ </br>
+Optional override </br>
+_Method_
+Action/Operation
+_Property_
+Data associated with a class/instance
+
+### Assignment Specifications
+
+
+### Visual
