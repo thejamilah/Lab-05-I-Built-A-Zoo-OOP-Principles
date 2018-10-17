@@ -4,7 +4,8 @@ using System.Text;
 
 namespace BuildZoo.Classes.Vertabrates
 {
-    class Vertabrates
+    public abstract class Vertabrates
     {
+
     }
 }

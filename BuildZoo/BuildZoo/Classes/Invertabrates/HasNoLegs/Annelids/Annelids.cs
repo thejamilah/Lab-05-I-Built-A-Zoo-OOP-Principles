@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BuildZoo.Classes.NonVertabrates.HasNoLegs.Annelids
 {
-    class Annelids
+    public abstract class Annelids
     {
     }
 }

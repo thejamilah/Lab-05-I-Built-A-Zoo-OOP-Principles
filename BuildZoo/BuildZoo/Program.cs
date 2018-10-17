@@ -1,12 +1,21 @@
-﻿using System;
+﻿using BuildZoo.Classes.Vertabrates.Mammals.CanisFamiliaris;
+using System;
 
 namespace BuildZoo
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Zootopia");
+            KingdomAnimalia();
+        }
+
+        public static void KingdomAnimalia()
+
+        {
+            //Instantiating a new puppies object
+            Puppies puppies = new Puppies();
         }
     }
 }
