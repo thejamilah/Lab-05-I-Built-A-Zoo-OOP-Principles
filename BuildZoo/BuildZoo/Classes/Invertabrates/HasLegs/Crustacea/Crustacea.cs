@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BuildZoo.Classes.NonVertabrates.HasLegs.Crustacea
 {
-    class Crustacea
+    public abstract class Crustacea
     {
     }
 }

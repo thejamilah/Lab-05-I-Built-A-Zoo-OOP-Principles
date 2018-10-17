@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BuildZoo.Classes.Vertabrates.Mammals.CanisFamiliaris
 {
-    class Puppies
+    public class Puppies : 
     {
     }
 }

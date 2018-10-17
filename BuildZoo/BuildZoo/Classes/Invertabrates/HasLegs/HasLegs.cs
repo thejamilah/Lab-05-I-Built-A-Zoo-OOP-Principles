@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BuildZoo.Classes.NonVertabrates.HasNoLegs
+namespace BuildZoo.Classes.NonVertabrates.HasLegs
 {
-    class HasNoLegs
+    public abstract class HasLegs
     {
     }
 }

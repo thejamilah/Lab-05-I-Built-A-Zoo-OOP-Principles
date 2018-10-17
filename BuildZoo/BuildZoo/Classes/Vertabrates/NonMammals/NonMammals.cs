@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BuildZoo.Classes.Vertabrates.NonMammals
 {
-    class NonMammals
+    public abstract class NonMammals
     {
     }
 }
