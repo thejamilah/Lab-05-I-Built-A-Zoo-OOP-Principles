@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuildZoo.Classes.NonVertabrates.HasLegs.Crustacea
+﻿namespace BuildZoo.Classes.NonVertabrates.HasLegs.Crustacea
 {
     public abstract class Crustacea
     {
+        public abstract bool HasExoskeleton { get; set; }
+        public virtual string Swim { get; set; }
     }
 }

@@ -1,5 +1,4 @@
-﻿using BuildZoo.Classes.Vertabrates.Mammals.CanisFamiliaris;
-using System;
+﻿using System;
 
 namespace BuildZoo
 {
@@ -8,14 +7,9 @@ namespace BuildZoo
         public static void Main(string[] args)
         {
             Console.WriteLine("Zootopia");
-            KingdomAnimalia();
+            Console.WriteLine("==================");
+            
         }
 
-        public static void KingdomAnimalia()
-
-        {
-            //Instantiating a new puppies object
-            Puppies puppies = new Puppies();
-        }
     }
 }

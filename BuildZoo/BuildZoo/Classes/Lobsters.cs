@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuildZoo.Classes.NonVertabrates.HasLegs.Crustacea
+﻿namespace BuildZoo.Classes.NonVertabrates.HasLegs.Crustacea
 {
     class Lobsters
     {

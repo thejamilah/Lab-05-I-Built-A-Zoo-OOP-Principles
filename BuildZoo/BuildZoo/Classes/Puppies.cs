@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuildZoo.Classes.Vertabrates.Mammals.CanisFamiliaris
+﻿namespace BuildZoo.Classes.Vertabrates.Mammals.CanisFamiliaris
 {
-    public class Puppies : 
+    public class Puppies
     {
     }
 }

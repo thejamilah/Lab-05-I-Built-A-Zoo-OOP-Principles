@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuildZoo.Classes.Vertebrates.NonMammals.Reptilian
+﻿namespace BuildZoo.Classes.Vertebrates.NonMammals.Reptilian
 {
-    class Reptilian
+    public abstract class Reptilian
     {
+        public abstract bool Bite { get; set; }
+
+        public abstract bool HaveScalySkin { get; set; }
+
     }
 }

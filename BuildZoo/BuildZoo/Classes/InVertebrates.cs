@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuildZoo.Classes.NonVertabrates
+﻿namespace BuildZoo.Classes.NonVertabrates
 {
     public abstract class InVertebrates
     {
+        public abstract bool HaveNoBackbone { get; set; }
     }
 }

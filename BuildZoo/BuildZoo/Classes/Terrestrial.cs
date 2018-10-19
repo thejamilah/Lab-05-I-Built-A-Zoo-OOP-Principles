@@ -4,7 +4,8 @@ using System.Text;
 
 namespace BuildZoo.Classes
 {
-    class KingdomAnimalia
+    public abstract class Terrestrial
     {
+        public abstract bool LiveOnLand { get; set; }
     }
 }

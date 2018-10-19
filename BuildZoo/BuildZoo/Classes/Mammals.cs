@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuildZoo.Classes.Vertabrates.Mammals
+﻿namespace BuildZoo.Classes.Vertabrates.Mammals
 {
     public abstract class Mammals
     {
+        public abstract bool HasHair { get; set; }
+
+        public virtual bool FeedsBabiesMilk { get; set; }
     }
 }

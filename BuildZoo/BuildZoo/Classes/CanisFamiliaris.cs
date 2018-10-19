@@ -1,10 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuildZoo.Classes.Vertebrates.Mammals.CanisFamiliaris
+﻿namespace BuildZoo.Classes.Vertebrates.Mammals.CanisFamiliaris
 {
     public abstract class CanisFamiliaris
     {
+        public abstract string Have();
+
+        public virtual string HaveVocalChords { get; set; }
+
+        public abstract string Chew();
     }
 }

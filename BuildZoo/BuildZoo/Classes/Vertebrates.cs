@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuildZoo.Classes.Vertabrates
+﻿namespace BuildZoo.Classes.Vertabrates
 {
     public abstract class Vertabrates
     {
-
+        public abstract bool HaveBackbone { get; set; }
     }
 }
