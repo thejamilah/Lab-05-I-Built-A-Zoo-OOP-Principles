@@ -1,4 +1,4 @@
-﻿namespace BuildZoo.Classes.NonVertabrates.HasLegs
+﻿namespace BuildZoo
 {
     public abstract class HasLegs
     {

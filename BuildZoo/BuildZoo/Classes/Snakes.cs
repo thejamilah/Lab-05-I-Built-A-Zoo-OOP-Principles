@@ -1,4 +1,4 @@
-﻿namespace BuildZoo.Classes.Vertabrates.NonMammals.Reptilia
+﻿namespace BuildZoo
 {
     public class Snakes
     {

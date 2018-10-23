@@ -2,8 +2,8 @@
 {
     public abstract class NonMammals
     {
-        public abstract bool HaveNoHair { get; set; }
+        public abstract bool HaveNoHair();
 
-        public virtual bool LaysEggs { get; set; }
+        public abstract bool LaysEggs();
     }
 }

@@ -1,6 +1,6 @@
-﻿namespace BuildZoo.Classes.NonVertabrates.HasNoLegs.Annelids
+﻿namespace BuildZoo
 {
-    public abstract class Annelids : Animalia
+    public abstract class Annelids
     {
         public abstract bool HasNoExoskeleton();
       

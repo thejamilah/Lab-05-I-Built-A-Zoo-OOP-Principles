@@ -1,4 +1,4 @@
-﻿namespace BuildZoo.Classes.NonVertabrates
+﻿namespace BuildZoo
 {
     public abstract class InVertebrates
     {
