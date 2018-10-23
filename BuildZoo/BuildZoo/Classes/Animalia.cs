@@ -5,8 +5,8 @@
     /// </summary>
     public abstract class Animalia
     {
-        public abstract bool AreMultiCellular { get; set; }
-        public abstract bool AreHeterotrophs { get; set; }
+        public abstract bool AreMultiCellular();
+        public abstract bool AreHeterotrophs();
 
         /// <summary>
         /// Abstract method instantiated in class Animalia
