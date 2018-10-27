@@ -1,4 +1,4 @@
-﻿namespace BuildZoo.Classes.Vertebrates.NonMammals.Reptilian
+﻿namespace BuildZoo
 {
     public abstract class Reptilian
     {

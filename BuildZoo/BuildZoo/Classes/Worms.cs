@@ -1,4 +1,4 @@
-﻿namespace BuildZoo.Classes.NonVertabrates.HasNoLegs.Annelids
+﻿namespace BuildZoo
 {
     class Worms
     {

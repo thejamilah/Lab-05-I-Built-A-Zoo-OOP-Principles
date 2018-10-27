@@ -1,6 +1,9 @@
-﻿namespace BuildZoo.Classes.Vertabrates.Mammals.CanisFamiliaris
+﻿
+
+namespace BuildZoo
 {
-    public class Puppies
+    public abstract class Puppies
+
     {
     }
 }

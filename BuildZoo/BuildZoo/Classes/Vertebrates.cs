@@ -1,7 +1,7 @@
-﻿namespace BuildZoo.Classes.Vertabrates
+﻿namespace BuildZoo
 {
-    public abstract class Vertabrates
+    public abstract class Vertebrates
     {
-        public abstract bool HaveBackbone { get; set; }
+        public abstract bool HaveBackbone();
     }
 }

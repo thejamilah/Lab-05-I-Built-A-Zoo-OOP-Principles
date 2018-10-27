@@ -1,6 +1,8 @@
-﻿namespace BuildZoo.Classes.NonVertabrates.HasLegs.Crustacea
+﻿using System;
+
+namespace BuildZoo
 {
-    class Lobsters
+    public class Lobsters 
     {
     }
 }
