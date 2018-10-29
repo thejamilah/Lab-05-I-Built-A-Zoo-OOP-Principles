@@ -7,7 +7,7 @@ namespace BuildZoo
     {
         public override string Are()
         {
-            return "Are delicious with garlic and melted butter";
+            return "Lobsters are delicious with garlic and melted butter";
         }
 
         public override bool AreHeterotrophs()
@@ -22,7 +22,7 @@ namespace BuildZoo
 
         public override string Eat()
         {
-            return "Sometimes eat other lobsters!";
+            return "Weird trivial fact: Sometimes lobsters eat other lobsters! Is that lobsterism?";
         }
 
         public override bool HaveNoBackbone()

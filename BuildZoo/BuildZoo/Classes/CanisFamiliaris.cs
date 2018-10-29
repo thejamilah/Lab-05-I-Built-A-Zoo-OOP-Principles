@@ -1,6 +1,8 @@
-﻿namespace BuildZoo
+﻿using BuildZoo.Classes;
+
+namespace BuildZoo
 {
-    public abstract class CanisFamiliaris
+    public abstract class CanisFamiliaris : Animalia
     {
         public abstract string Have();
 

@@ -22,14 +22,17 @@ namespace BuildZoo
             Console.WriteLine(" ");
             Console.WriteLine("Lobsters: ");
             Console.WriteLine(" ");
-            Lobster lobster = new Lobster();
+            LobbieLobster();
+
             Console.WriteLine("==========");
 
         }
 
-        public static string LobbieLobster()
+        public static void LobbieLobster()
         {
             Lobster theLobster = new Lobster();
+            Console.WriteLine(theLobster.Eat());
+            Console.WriteLine(theLobster.Are());
         }
         
 
