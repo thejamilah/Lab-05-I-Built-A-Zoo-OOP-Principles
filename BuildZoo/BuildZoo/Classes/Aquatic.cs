@@ -5,18 +5,9 @@ using BuildZoo.Interfaces;
 
 namespace BuildZoo.Classes
 {
-    public abstract class Aquatic : Animalia, IFly
+    public abstract class Aquatic : InVertebrate
     {
-        public abstract bool LiveInWater();
 
-        public abstract bool canFly();
-
-
-
-        public bool CanFly()
-        {
-            return false;
-        }
 
     }
 }

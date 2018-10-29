@@ -1,10 +1,12 @@
-﻿namespace BuildZoo
-{
-    public abstract class Reptilian
-    {
-        public abstract bool Bite { get; set; }
+﻿using BuildZoo.Classes;
 
-        public abstract bool HaveScalySkin { get; set; }
+namespace BuildZoo
+{
+    public abstract class Reptilian : NonMammal
+    {
+        public abstract bool Bite();
+
+        public abstract bool HaveScalySkin();
 
     }
 }
