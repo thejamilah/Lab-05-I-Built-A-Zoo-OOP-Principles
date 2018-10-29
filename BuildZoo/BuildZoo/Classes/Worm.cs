@@ -1,6 +1,6 @@
 ﻿namespace BuildZoo
 {
-    class Worms
+    class Worm
     {
     }
 }

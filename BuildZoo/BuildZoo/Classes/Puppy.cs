@@ -2,7 +2,7 @@
 
 namespace BuildZoo
 {
-    public abstract class Puppies
+    public abstract class Puppy
 
     {
     }

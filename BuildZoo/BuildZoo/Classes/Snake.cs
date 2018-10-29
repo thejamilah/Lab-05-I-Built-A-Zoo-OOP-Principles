@@ -1,6 +1,6 @@
 ﻿namespace BuildZoo
 {
-    public class Snakes
+    public class Snake
     {
 
     }

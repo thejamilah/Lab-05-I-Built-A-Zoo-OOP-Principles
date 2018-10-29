@@ -2,7 +2,7 @@
 
 namespace BuildZoo
 {
-    public class Lobsters 
+    public class Lobster 
     {
     }
 }

@@ -1,6 +1,6 @@
-﻿namespace BuildZoo.Classes.Vertabrates.Mammals
+﻿namespace BuildZoo.Classes.Vertabrate.Mammal
 {
-    public abstract class Mammals
+    public abstract class Mammal
     {
         public abstract bool HaveHair();
 

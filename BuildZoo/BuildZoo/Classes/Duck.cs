@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BuildZoo
 {
-    public class Ducks
+    public class Duck
     {
 
     }

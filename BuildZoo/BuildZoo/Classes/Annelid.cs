@@ -1,6 +1,6 @@
 ﻿namespace BuildZoo
 {
-    public abstract class Annelids
+    public abstract class Annelid
     {
         public abstract bool HasNoExoskeleton();
       
