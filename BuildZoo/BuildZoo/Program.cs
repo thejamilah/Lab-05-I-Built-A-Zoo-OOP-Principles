@@ -2,7 +2,7 @@
 
 namespace BuildZoo
 {
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
@@ -20,11 +20,18 @@ namespace BuildZoo
             Console.WriteLine(" ");
             Console.WriteLine("Worms are ");
             Console.WriteLine(" ");
-            Console.WriteLine("Lobsters are ");
+            Console.WriteLine("Lobsters: ");
             Console.WriteLine(" ");
+            Lobster lobster = new Lobster();
             Console.WriteLine("==========");
 
         }
+
+        public static string LobbieLobster()
+        {
+            Lobster theLobster = new Lobster();
+        }
+        
 
     }
 }

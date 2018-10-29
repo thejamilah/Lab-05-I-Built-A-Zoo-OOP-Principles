@@ -1,7 +1,6 @@
-﻿namespace BuildZoo
+﻿namespace BuildZoo.Classes
 {
-    public abstract class Crustacea
+    public abstract class Crustacea : Aquatic
     {
-        public abstract bool HasExoskeleton();
     }
 }

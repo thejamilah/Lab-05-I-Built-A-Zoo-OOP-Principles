@@ -1,7 +1,9 @@
-﻿namespace BuildZoo
+﻿using BuildZoo.Classes;
+
+namespace BuildZoo
 {
-    public abstract class InVertebrate
+    public abstract class InVertebrate : Animalia
     {
-        public abstract bool HaveNoBackbone { get; set; }
+        public abstract bool HaveNoBackbone();
     }
 }
