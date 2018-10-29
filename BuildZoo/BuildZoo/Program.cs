@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BuildZoo.Classes;
+using System;
 
 namespace BuildZoo
 {
@@ -12,18 +13,15 @@ namespace BuildZoo
             Console.WriteLine(" ");
             //5 concreate animals from base classes
 
-            Console.WriteLine("Snakes are ");
+            Console.WriteLine("Snakes:");
+            SneakySnake();
             Console.WriteLine(" ");
-            Console.WriteLine("Puppies are ");
-            Console.WriteLine(" ");
-            Console.WriteLine("Ducks are ");
-            Console.WriteLine(" ");
-            Console.WriteLine("Worms are ");
+            Console.WriteLine("Puppies:");
+            PuppyPower();
             Console.WriteLine(" ");
             Console.WriteLine("Lobsters: ");
-            Console.WriteLine(" ");
             LobbieLobster();
-
+            Console.WriteLine(" ");
             Console.WriteLine("==========");
 
         }
@@ -33,6 +31,22 @@ namespace BuildZoo
             Lobster theLobster = new Lobster();
             Console.WriteLine(theLobster.Eat());
             Console.WriteLine(theLobster.Are());
+        }
+
+        public static void SneakySnake()
+        {
+            Snake theSnake = new Snake();
+            Console.WriteLine(theSnake.Are());
+        }
+
+        public static void PuppyPower()
+        {
+            Puppy theCutest = new Puppy();
+            Console.WriteLine(theCutest.Have());
+            Console.WriteLine(theCutest.HaveVocalChords());
+            Console.WriteLine(theCutest.Eat());
+            Console.WriteLine(theCutest.Chew());
+            Console.WriteLine(theCutest.Are());
         }
         
 

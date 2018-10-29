@@ -1,6 +1,8 @@
-﻿namespace BuildZoo
+﻿using BuildZoo.Classes;
+
+namespace BuildZoo
 {
-    public abstract class Reptilian
+    public abstract class Reptilian : NonMammal
     {
         public abstract bool Bite();
 

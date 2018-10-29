@@ -1,8 +1,8 @@
-﻿using BuildZoo.Classes;
+﻿using BuildZoo.Classes.Vertabrate.Mammal;
 
 namespace BuildZoo
 {
-    public abstract class CanisFamiliaris : Animalia
+    public abstract class CanisFamiliaris : Mammal
     {
         public abstract string Have();
 
