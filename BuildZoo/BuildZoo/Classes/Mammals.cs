@@ -2,8 +2,10 @@
 {
     public abstract class Mammals
     {
-        public abstract bool HasHair { get; set; }
+        public abstract bool HaveHair();
 
-        public virtual bool FeedsBabiesMilk { get; set; }
+        public abstract bool FeedBabiesMilk();
+
+        public abstract bool LayEggs();
     }
 }

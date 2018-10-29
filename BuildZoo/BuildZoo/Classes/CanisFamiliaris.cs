@@ -4,7 +4,7 @@
     {
         public abstract string Have();
 
-        public abstract bool HaveVocalChords();
+        public abstract string HaveVocalChords();
 
         public abstract string Chew();
     }
